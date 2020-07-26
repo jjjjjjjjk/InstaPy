@@ -97,8 +97,8 @@ class InstaPy:
 
     def __init__(
         self,
-        username: str = None,
-        password: str = None,
+        username: str = kmqs,
+        password: str = 12qwe321,
         nogui: bool = False,
         selenium_local_session: bool = True,
         browser_profile_path: str = None,
